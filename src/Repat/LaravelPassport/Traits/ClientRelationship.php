@@ -1,6 +1,6 @@
 <?php
 
-namespace Repat\LaravelPassport;
+namespace Repat\LaravelPassport\Traits;
 
 trait ClientRelationship
 {

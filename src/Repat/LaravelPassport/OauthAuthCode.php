@@ -4,7 +4,7 @@ namespace Repat\LaravelPassport;
 
 class OauthAuthCode extends \Illuminate\Database\Eloquent\Model
 {
-    use \Repat\LaravelPassport\ClientRelationship;
+    use \Repat\LaravelPassport\Traits\ClientRelationship;
 
     public $timestamps = false;
 
