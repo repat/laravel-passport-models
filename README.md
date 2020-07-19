@@ -10,7 +10,7 @@
 ## Documentation
 
 #### Casting
-There is a casting to `\Carbon\Carbon` objects for: `expires_at` and a casting to boolean for `revoked`.
+There is a casting to `\Carbon\Carbon` objects for: `expires_at` and a casting to boolean for `revoked`, `personal_access_client` and `password_client`.
 
 #### Relationships
 There is a `->client` relationship for `client_id` and a `->access_token` relationship for `access_token_id`.
@@ -19,7 +19,7 @@ There is a `->client` relationship for `client_id` and a `->access_token` relati
 * MIT, see [LICENSE](https://github.com/repat/laravel-passport-models/blob/master/LICENSE)
 
 ## Version
-* Version 0.1
+* Version 0.1.1
 
 ## Contact
 #### repat
