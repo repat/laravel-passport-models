@@ -19,7 +19,7 @@ There is a `->client` relationship for `client_id` and a `->access_token` relati
 * MIT, see [LICENSE](https://github.com/repat/laravel-passport-models/blob/master/LICENSE)
 
 ## Version
-* Version 0.1.2
+* Version 0.1.3
 
 ## Contact
 #### repat
