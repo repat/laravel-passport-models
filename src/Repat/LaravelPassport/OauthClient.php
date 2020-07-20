@@ -2,7 +2,7 @@
 
 namespace Repat\LaravelPassport;
 
-class OauthAuthClient extends \Illuminate\Database\Eloquent\Model
+class OauthClient extends \Illuminate\Database\Eloquent\Model
 {
     protected $casts = [
         'personal_access_client' => 'boolean',
